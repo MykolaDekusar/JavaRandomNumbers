@@ -12,6 +12,8 @@ public class Main {
 		//partire da 1 bisogna aggiungere +1 fuori dalle parentesi
 		int y= caso.nextInt(6)+1;
 		System.out.println(y);
+		double z = caso.nextDouble();
+		System.out.println(z);
 	}
 
 }
