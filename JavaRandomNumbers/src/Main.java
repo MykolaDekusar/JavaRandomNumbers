@@ -14,6 +14,8 @@ public class Main {
 		System.out.println(y);
 		double z = caso.nextDouble();
 		System.out.println(z);
+		boolean bool=caso.nextBoolean();
+		System.out.println(bool);
 	}
 
 }
